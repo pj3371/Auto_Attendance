@@ -62,9 +62,9 @@
 
 3. 启动定时打卡
 
-    进入Code页面，点击修改按钮
+    进入Code页面，点击修改按钮 
 
-    ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817191741.png)
+    ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817191741.png) 
 
     在readme文件中随意修改任意字符（比如加个空格），然后点击下方的Commit Changes即可激活每日定时打卡脚本
 
